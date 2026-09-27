@@ -28,7 +28,7 @@ Manual moderation commands can affect members or delete messages when an authori
 
 Inviting or configuring the bot does not purchase a subscription. Paid protection and paid moderation commands require an active **server subscription** for the particular Discord server. One server's subscription does not unlock other servers.
 
-**Prelaunch status:** paid checkout is not yet available. The intended starting price is **USD $9.99 per server per month**. A purchase becomes available only when Discord displays an enabled offer. Before purchase, the offer and checkout must state the actual price, renewal interval, features, and image allowance; localized prices and applicable taxes may differ. No future feature is included unless expressly listed in the purchased offer.
+Protector Guard Pro's starting price is **USD $9.99 per server per month**. Purchases are available through Discord when it displays an enabled offer. Before purchase, review the offer and checkout for the actual price, renewal interval, features, and image allowance; localized prices and applicable taxes may differ. No future feature is included unless expressly listed in the purchased offer.
 
 Subscriptions renew as described at checkout unless canceled. Manage or cancel a Discord purchase in Discord's subscription settings, using the appropriate device or store for the original purchase. Access normally continues until the entitlement's paid period ends. **Removing the bot, pausing protection, or deleting bot settings does not cancel a subscription.** See [Discord's cancellation instructions](https://support.discord.com/hc/en-us/articles/26729692307351-How-to-Cancel-your-Premium-App-Subscription).
 
