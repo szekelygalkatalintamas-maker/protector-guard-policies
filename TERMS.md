@@ -34,7 +34,7 @@ Subscriptions renew as described at checkout unless canceled. Manage or cancel a
 
 Image allowances apply separately to each server and reset at 00:00 UTC on the first day of each calendar month, independently of the payment renewal date. Scanning currently supports at most two PNG, JPEG, or WebP attachments per message, each up to 6 MiB and 12 megapixels. Unsupported images, full processing queues, unavailable services, and exhausted allowances may prevent scanning. Text protection can continue after an image allowance is exhausted. Failed image processing does not consume an image allowance. `/status` shows the current allowance and use.
 
-The current development setting is 1,000 images per server per month. **This is a provisional setting, not a published paid-plan commitment.** The final allowance will be disclosed before sales begin. If Discord cannot verify subscription access, paid operations pause until access can be checked.
+Protector Guard Pro includes **1,000 image scans per server per UTC calendar month**. The allowance applies to the server as a whole. Text moderation continues after the image allowance is used, subject to normal service availability. If Discord cannot verify subscription access, paid operations pause until access can be checked.
 
 ## 5. Refunds, complaints, and consumer rights
 
